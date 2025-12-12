@@ -1,0 +1,11 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+*.png
+*.pdf
+simulation/registry
+simulation/packages.rds
+old
+simulation/copy_paste.R
+simulation/results
